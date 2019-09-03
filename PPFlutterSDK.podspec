@@ -13,5 +13,5 @@ Flutter业务源代码
   spec.author       = { "limengqi" => "limengqi2014@xiaochuankeji.cn" }
 
   spec.platform     = :ios, "8.0"
-  spec.vendored_frameworks = 'PPFlutterSDK/App.framework','PPFlutterSDK/Flutter.framework'
+  spec.vendored_frameworks = 'PPFlutterSDK/PPFlutterSDK/App.framework','PPFlutterSDK/PPFlutterSDK/Flutter.framework'
 end
