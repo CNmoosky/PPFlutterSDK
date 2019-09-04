@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "PPFlutterSDK"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.4"
   spec.summary      = "PPFlutterSDK."
   spec.description  = <<-DESC
 Flutter业务源代码
