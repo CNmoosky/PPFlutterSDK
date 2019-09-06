@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "PPFlutterSDK"
-  spec.version      = "0.0.4"
+  spec.version      = "0.0.5"
   spec.summary      = "PPFlutterSDK."
   spec.description  = <<-DESC
 Flutter业务源代码
@@ -14,6 +14,6 @@ Flutter业务源代码
 
   spec.platform     = :ios, "8.0"
 
-  spec.vendored_frameworks = 'PPFlutterSDK/**/*.{framework}'
+  spec.vendored_frameworks = '*.{framework}'
 
 end
